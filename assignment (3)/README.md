@@ -1,0 +1,1 @@
+Call a external API Server and make a GET request and store all the received details in DB ( Website: https://developer.themoviedb.org/reference/intro/getting-started ) ( Write proper documentation for all API Endpoints with Token )
